@@ -1,6 +1,8 @@
 # AluraChallenge
 <h1 align="center"> Bienvenidos a mi Desafío Alura Store </h1>
-<img width="328" alt="Logo de Secret Friend Game" src="https://github.com/user-attachments/assets/615e3e3a-72d3-4de4-9481-aeec28fda16e" />
+
+![Logotipo Taller de Marketing Digital Espacial Negro y Turquesa](https://github.com/user-attachments/assets/340ef429-6b39-4fae-b09d-d02f7d3c765d)
+
 
 <h1 align="center"> Descripción del Proyecto </h1>
 Alura Store es un proyecto de Data Science que permite a través del análisis de datos de 4 tiendas, dar una conclusión y otros insights útiles para que el dueño de estas tiendas pueda tomar una desición, saber cuál de las tiendas debe vender, cuál es la menos eficiente para así dar paso a otro de sus emprendimientos.

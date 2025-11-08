@@ -1,4 +1,4 @@
-# AluraChallenge
+# Store Analisis
 <h1 align="center"> Bienvenidos a mi Desafío Alura Store </h1>
 
 ![Logotipo Taller de Marketing Digital Espacial Negro y Turquesa](https://github.com/user-attachments/assets/340ef429-6b39-4fae-b09d-d02f7d3c765d)
